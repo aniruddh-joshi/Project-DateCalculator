@@ -5,7 +5,7 @@ A simple web app to calculate the difference between dates, add/subtract days, a
 ![Date Calculator](001_calc.png)  
 
 ## 🔗 Live Demo  
-[Check it out here!](https://aniruddh-date-calculator.netlify.app/)  
+[https://aniruddh-date-calculator.netlify.app/](https://aniruddh-date-calculator.netlify.app/)  
 
 ## 📌 Features  
 ✅ Calculate the number of days between two dates  
