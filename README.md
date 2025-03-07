@@ -2,7 +2,9 @@
 
 A simple web app to calculate the difference between dates, add/subtract days, and perform date-related operations.  
 
-![Date Calculator](001_calc.png)  
+<p align="center">
+  <img src="001_calc.png" alt="Date Calculator" width="400">
+</p>   
 
 ## 🔗 Live Demo  
 [https://aniruddh-date-calculator.netlify.app/](https://aniruddh-date-calculator.netlify.app/)  
